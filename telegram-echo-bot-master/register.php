@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://premiumwrld.herokuapp.com/execute.php';
+$WEBHOOK_URL = 'https://premium-wrld.herokuapp.com/execute.php';
     $BOT_TOKEN = '705463564:AAFS4op-aTVTy8Z-CXbF348ASZrl4Q_4Y_E
 ';
 
